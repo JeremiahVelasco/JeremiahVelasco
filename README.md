@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremiah</h1>
 <h3 align="center">Just trying to make the world more efficient</h3>
 
-<p align="left"> <img src="https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk"/> </p>
+<p align="left"> <img src="https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk" /> </p>
 
 - 🔭 I’m currently working on **Laravel Applications**
 
