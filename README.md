@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47zrgudl9elxcq76osm3uuo9j0z8zozauik85mcbpe&ep=v1_gifs_search&rid=giphy.gif&ct=g" /> </p>
 
-- 🔭 I’m currently working on **Enterprise SaaS Applications**
+- 🔭 I’m currently working on **nothing**.
 
 - 🌱 I’m currently learning **React and React Native**
 
