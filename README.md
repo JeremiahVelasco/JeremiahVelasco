@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeremiahvelasco" alt="jeremiahvelasco" /></a> </p>
 
-- 🔭 I’m currently working on **3 Laravel projects**
+- 🔭 I’m currently working on **2 Laravel projects**
 
 - 🌱 I’m currently learning **Python**
 
