@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremiah</h1>
-<h3 align="center">Student Back-end Developer Intern @ a FinTech company</h3>
+<h3 align="center">Backend Development Student Intern @ a FinTech company</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremiahvelasco&label=Profile%20views&color=0e75b6&style=flat" alt="jeremiahvelasco" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **3 Laravel projects**
 
-- 🌱 I’m currently learning **the TALL Stack**
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
