@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeremiahvelasco" alt="jeremiahvelasco" /></a> </p>
 
-- 🔭 I’m currently working on **my e-commerce startup**
-
 - 🌱 I’m currently learning **React & Laravel**
 
 - 📫 How to reach me **velascojeremiahd@gmail.com**
