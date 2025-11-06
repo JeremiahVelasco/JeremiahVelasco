@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeremiahvelasco" alt="jeremiahvelasco" /></a> </p>
 
-- 🌱 I’m currently learning **React & Laravel**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **velascojeremiahd@gmail.com**
 
